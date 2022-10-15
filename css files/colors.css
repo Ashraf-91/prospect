@@ -1,0 +1,11 @@
+
+:root {
+    /* Use for main content */
+    --colorDorminant: #462dde;    
+    /* Use for texts */
+    --colorLessDorminant: #517cbd;    
+    /* use this sparingly */
+    --colorLesserDominant: #0dac1d;    
+    /* use as a neutral and warning color */
+    --colorNeutralColor: #eb1717;    
+}
